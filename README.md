@@ -21,10 +21,10 @@ A manual testing project covering the login functionality of [saucedemo.com](htt
 
 ## Summary of Findings
 <!-- Fill this in after you execute all test cases -->
-- Total test cases executed: __ / 18
-- Passed: __
-- Failed: __
-- Bugs logged: __
+- Total test cases executed: 18/ 18
+- Passed: 18
+- Failed: 0
+- Bugs logged: 0
 
 ## Next Steps
 This project will be extended with Selenium + Pytest automation for the same login flow as part of my ongoing testing roadmap.
